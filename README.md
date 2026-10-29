@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="images/output-onlinegiftools.gif" width="100%">
+
+![banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtqYWh0cXl2OGI3czJ2NXlsbWE1amNwMTk2cGR0NmUwYjZ1a3poZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EGA0tc2XGcmd2ao1Bf/giphy.gif)
   
 # Hi there, I'm Moura! 👋
 
