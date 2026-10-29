@@ -1,5 +1,4 @@
-<div align="center">
-                                                                     
+                                                             
 88b           d88                                                    
 888b         d888                                                    
 88`8b       d8'88                                                    
@@ -9,6 +8,7 @@
 88    `888'    88  "8a,   ,a8"  "8a,   ,a88  88          88,    ,88  
 88     `8'     88   `"YbbdP"'    `"YbbdP'Y8  88          `"8bbdP"Y8  
 
+<div align="center">
 ### **Full-Stack Developer & Data Analytics Enthusiast**
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barbosa-112846440)
