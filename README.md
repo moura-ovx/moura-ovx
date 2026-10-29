@@ -1,8 +1,6 @@
 <div align="center">
   <img src="output-onlinegiftools.gif" width="100%">
-</div>
-
-<div align="center">
+  
 # Hi there, I'm Moura! 👋
 
 ### **Full-Stack Developer & Data Analytics Enthusiast**
