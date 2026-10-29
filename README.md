@@ -1,4 +1,5 @@
-                                                             
+```
+
 88b           d88                                                    
 888b         d888                                                    
 88`8b       d8'88                                                    
@@ -7,6 +8,8 @@
 88   `8b d8'   88  8b       d8  88       88  88          ,adPPPPP88  
 88    `888'    88  "8a,   ,a8"  "8a,   ,a88  88          88,    ,88  
 88     `8'     88   `"YbbdP"'    `"YbbdP'Y8  88          `"8bbdP"Y8  
+
+```
 
 <div align="center">
 ### **Full-Stack Developer & Data Analytics Enthusiast**
