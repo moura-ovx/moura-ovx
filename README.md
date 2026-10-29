@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="output-onlinegiftools.gif" width="100%">
+  <img src="images/output-onlinegiftools.gif" width="100%">
   
 # Hi there, I'm Moura! 👋
 
