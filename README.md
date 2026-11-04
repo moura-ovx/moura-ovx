@@ -10,7 +10,7 @@
 
 ---
 
-### About Me -------------------------------------------------------------------------------------------------------------------
+### About Me -----------------------------------------------------------------------------------------------------------------
 
 Early-career **Full-Stack Developer** focused on building modern, robust applications and continuously evolving in **Data Analysis with Python**.
 
