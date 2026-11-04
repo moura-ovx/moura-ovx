@@ -10,7 +10,7 @@
 
 ---
 
-### About Me ------------------------------------------------------------------------------
+### About Me ------------------------------------------------------------------------------------------------------------------------------
 
 Early-career **Full-Stack Developer** focused on building modern, robust applications and continuously evolving in **Data Analysis with Python**.
 
@@ -18,7 +18,7 @@ Early-career **Full-Stack Developer** focused on building modern, robust applica
 - **Data Analysis:** Deepening studies in **Python, Pandas, and NumPy** for data extraction, manipulation, and supporting decision-making processes.
 - **Goal:** Looking for opportunities to contribute to tech and data teams, applying my development foundation to build efficient and scalable solutions.
 
-### -------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Tech Stack & Tools 
 
