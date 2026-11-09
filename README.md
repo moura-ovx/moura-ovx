@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG80dzdtdTZncjYyaW1jb3l0bmdyYm54d2k4NDdkcWFnZzFtMXp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGZS3378TidvTYKbI4/giphy.gif" width="800" alt="profile banner">
+  <img width="860" height="280" alt="profilebanner" src="https://github.com/user-attachments/assets/ccb9c221-e317-4039-bc06-ae25789dd2d2" />
 </p>
 
 <div align="center">
